@@ -1,0 +1,8 @@
+{
+  "status": "candidate_not_submission_ready",
+  "selected_ocr_checkpoint": "models/fine_tuned/easyocr_autoria_mixed_20260930_from_step1000_step1000.pt",
+  "settings": "settings_submission.json",
+  "format_mode": "strict",
+  "dataset_for_future_build": "dataset/candidates/official_v1",
+  "selection_reason": "Final fixed-parameter comparison 2026-09-30: previously unused AUTO.RIA OCR test exact 2163/2845 (76.03%), CER 0.161899 vs prior 1406/2845 (49.42%), CER 0.341489; open official public debug 81/115, score 74.65, precision 83.51% vs 72/115, 70.01, 81.82%; development input_images stays 13/15 and checks/two_line stays 16/19. Full-scene diagnostics W01/W02/C01: new exact 1/3 (W01), prior 0/3. These are open/debug/development measurements, not an independent test or a quality guarantee."
+}

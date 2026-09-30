@@ -1,0 +1,13 @@
+{
+  "detector_confidence": 0.3,
+  "nms_iou": 0.45,
+  "ocr_confidence": 0.15,
+  "square_max_ratio": 2.5,
+  "yellow_min_fraction": 0.18,
+  "cpu_threads": 4,
+  "border_trim_x": 0.025,
+  "border_trim_y": 0.06,
+  "region_first_digits": "",
+  "allowed_letters": "ABEKMHOPCTYX",
+  "yellow_min_saturation": 110
+}
